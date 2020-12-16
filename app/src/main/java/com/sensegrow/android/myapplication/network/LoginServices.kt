@@ -1,4 +1,4 @@
-package network
+package com.sensegrow.android.myapplication.network
 
 import retrofit2.Call
 import com.squareup.moshi.Moshi

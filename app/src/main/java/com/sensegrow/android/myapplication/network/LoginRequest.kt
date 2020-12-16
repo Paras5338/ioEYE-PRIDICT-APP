@@ -1,4 +1,4 @@
-package network
+package com.sensegrow.android.myapplication.network
 
 import com.squareup.moshi.Json
 

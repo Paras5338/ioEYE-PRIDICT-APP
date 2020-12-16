@@ -7,9 +7,9 @@ import android.util.Log
 import android.view.View
 import android.widget.EditText
 import androidx.appcompat.app.AppCompatActivity
-import network.LoginRequest
-import network.LoginResponse
-import network.WebService
+import com.sensegrow.android.myapplication.network.LoginRequest
+import com.sensegrow.android.myapplication.network.LoginResponse
+import com.sensegrow.android.myapplication.network.WebService
 import retrofit2.Callback
 import retrofit2.Call
 import retrofit2.Response
